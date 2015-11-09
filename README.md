@@ -109,13 +109,13 @@ After forking the repository, there are a number of ways to add or edit courses 
 
 You can view the changes you made on our website, by entering your GitHubrepository.
 
-[Makeree courses](http://content.makeree.com)
+[Makeree content](http://content.makeree.com)
 
 ### Contact
 
-[Makeree on Facebook](www.facebook.com/freetimeacademy)
+[Makeree on Facebook](http://www.facebook.com/freetimeacademy)
 
-Email us: sergey@freetimeacademy.com
+Email us: sergey@makeree.com
 
 
 
