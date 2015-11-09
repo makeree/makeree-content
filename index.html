@@ -1,0 +1,64 @@
+﻿<!doctype html>
+<html>
+<head>
+  <meta charset='utf-8'>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width">
+
+  <title>Makeree</title>
+
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+  <script src='website/js/flatdoc.js'></script>
+  <script src='website/js/makeree.js'></script>
+  <link  href='website/css/style.css' rel='stylesheet'>
+  <script src='website/js/template.js'></script>
+  
+  <meta content="Makeree Curriculum" property="og:title">
+  <meta content="Makeree Curriculum" name="description">
+
+</head>
+<body role='flatdoc'>
+
+  <div class='header' style="">
+    <div class='left'>
+      <h1>Makeree</h1>
+      <ul>
+        <li>
+          <a href='https://github.com/makeree/makeree-content/'>View on GitHub</a>
+        </li>
+        <li>
+            <div>
+                <span>Repository:</span><input id="repoistoryText" type="text" value="https://github.com/makeree/makeree-content/" />
+                <input type="button" value="View" onclick="loadrepository(); return false;" />
+            </div>
+        </li>
+      </ul>
+    </div>
+    <div class='right'>
+      <iframe src="http://ghbtns.com/github-btn.html?user=makeree&amp;repo=makeree-content&amp;type=watch&amp;count=true" allowtransparency="true" frameborder="0" scrolling="0" width="90" height="20"></iframe>
+	  <iframe src="https://ghbtns.com/github-btn.html?user=makeree&repo=makeree-content&type=fork&count=true" allowtransparency="true" frameborder="0" scrolling="0" width="90" height="20"></iframe>
+    </div>
+  </div>
+
+    
+  <div class='content-root'>
+      <div id="menu" class='menubar'>
+          <div class='menu section'>
+              
+              <div class="ltitle">Courses</div>
+              <div id="courses" class="courses">
+
+              </div>
+              <br />
+              <div class="ltitle">Lessons</div>
+              <div id="lessons" class="lessons">
+                  
+              </div>
+          </div>
+			  <div id='contentmenu' class='menu section' role='flatdoc-menu'></div>
+          </div>
+          <div id='content' role='flatdoc-content' class='content'></div>
+      </div>
+
+</body>
+</html>
