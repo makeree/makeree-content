@@ -4,7 +4,7 @@
 ### Description
 An earphone is a portable, sound emitting device. Earphones and speakers alike, produce sound by transforming electrical signals into motion. This vibrating motion is translated by our brain into sound.
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/image.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/image.jpg)
 
 
 1 Hour.
@@ -25,7 +25,7 @@ An earphone is a portable, sound emitting device. Earphones and speakers alike, 
 #### Description
  
 Hold the roll of masking tape in your hands.
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/step1.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/step1.jpg)
 
 ### Step 2
 
@@ -33,7 +33,7 @@ Hold the roll of masking tape in your hands.
 
 Cut 3 strips of tape, about 5'' (13 cm) each
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/step2.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/step2.jpg)
 
 
 
@@ -43,7 +43,7 @@ Cut 3 strips of tape, about 5'' (13 cm) each
 #### Description
 
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/step3.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/step3.jpg)
 
 
 
@@ -53,7 +53,7 @@ Cut 3 strips of tape, about 5'' (13 cm) each
 
 Place the first strip of tape, sticky side up, on your working surface
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/step4.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/step4.jpg)
 
 
 
@@ -63,7 +63,7 @@ Place the first strip of tape, sticky side up, on your working surface
 
 Add another strip of tape, slightly overlapping the first one
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/step5.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/step5.jpg)
 
 
 
@@ -73,7 +73,7 @@ Add another strip of tape, slightly overlapping the first one
 
 Repeat, creating a rectangular adhesive surface of about 5'' by 5'' (13 cm x 13 cm)
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/step6.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/step6.jpg)
 
 
 
@@ -83,7 +83,7 @@ Repeat, creating a rectangular adhesive surface of about 5'' by 5'' (13 cm x 13 
 
 Place the magnet wire on your working surface.
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/step7.jpg) 
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/step7.jpg) 
 
 #### Important
 
@@ -97,7 +97,7 @@ Magnet wire is a copper or aluminium wire coated with a thin layer of isolation.
 
 Bend the wire at a point about 6'' (15 cm) from the start. Place the bending point at the center of the sticky surface so the trailing wire sticks out.
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/step8.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/step8.jpg)
 
 ### Step 9
 
@@ -105,7 +105,7 @@ Bend the wire at a point about 6'' (15 cm) from the start. Place the bending poi
 
 Coil the long part of the wire around the initial bending point. Press the wire onto the adhesive surface to insure fixation.
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/step9.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/step9.jpg)
 
 
 ### Step 10
@@ -114,7 +114,7 @@ Coil the long part of the wire around the initial bending point. Press the wire 
 
 Spiral outwards around and around.
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/step10.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/step10.jpg)
 
 
 
@@ -125,7 +125,7 @@ Spiral outwards around and around.
 
 Continue coiling the wire, leaving small gaps between laps.
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/step11.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/step11.jpg)
 
 #### Important
 
@@ -138,7 +138,7 @@ Don't worry if coiling results in overlapping. The wires are protected by an iso
 
 Leaving a 5'' (13cm) segment at the end, stop coiling and bend the wire outwards.
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/step12.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/step12.jpg)
 
 
 ### Step 13
@@ -146,7 +146,7 @@ Leaving a 5'' (13cm) segment at the end, stop coiling and bend the wire outwards
 #### Description
 
 Cover the coil you've made with 3 strips of masking tape.
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/step13.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/step13.jpg)
 
 
 
@@ -156,7 +156,7 @@ Cover the coil you've made with 3 strips of masking tape.
 
 Cut the extending edges of the layered tape.
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/step14.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/step14.jpg)
 
 
 ### Step 15
@@ -164,7 +164,7 @@ Cut the extending edges of the layered tape.
 #### Description
 
 Resulting in an appealing membrane.
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/step15.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/step15.jpg)
 
 
 ### Step 16
@@ -173,7 +173,7 @@ Resulting in an appealing membrane.
 
 Cut a 3'' (8 cm) strip of masking tape.
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/step16.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/step16.jpg)
 
 
 ### Step 17
@@ -182,7 +182,7 @@ Cut a 3'' (8 cm) strip of masking tape.
 
 Place the magnets on the sticky tape and fold the strip in two, securing the magnets in the middle.
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/step17.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/step17.jpg)
 
 
 ### Step 18
@@ -190,14 +190,14 @@ Place the magnets on the sticky tape and fold the strip in two, securing the mag
 #### Description
 
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/step18.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/step18.jpg)
 
 ### Step 19
 
 #### Description
 
 Connect the end of the magnet strip, to the top of the coiled membrane with a small piece of tape
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/step19.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/step19.jpg)
 
 
 ### Step 20
@@ -206,7 +206,7 @@ Connect the end of the magnet strip, to the top of the coiled membrane with a sm
 
 Fold the magnet strip over to the other side
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/step20.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/step20.jpg)
 
 ### Step 21
 
@@ -214,7 +214,7 @@ Fold the magnet strip over to the other side
 
 Place the magnet at the center of the coil.
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/step21.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/step21.jpg)
 
 ### Step 22
 
@@ -222,7 +222,7 @@ Place the magnet at the center of the coil.
 
 Use a lighter and burn both ends of the wire, sticking out of the masking tape.
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/step22.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/step22.jpg)
 
 #### Important
 
@@ -235,7 +235,7 @@ Burning the edge of the wire removes the plastic isolating coating. The magnetic
 
 Once cool, expose the conductive wire by wiping the melted isolation away.
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/step23.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/step23.jpg)
 
 
 
@@ -246,7 +246,7 @@ Once cool, expose the conductive wire by wiping the melted isolation away.
 
 Cut the PL cable in half.
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/step24.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/step24.jpg)
 
 #### Important
 
@@ -260,35 +260,35 @@ This motor generates motion with the use of electrically charged particles in a 
 
 Use the cutters to expose about 0.5'' (1 cm) of the PL cable. If your cable's inner wiring is not similar to the picture, follow the tip to continue.
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/step25.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/step25.jpg)
 
 
 #### Important
 
 If your PL cable has fabric coated wires, begin exposing by gently peeling away the inner silver lining
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/Extra/step25/extra1.jpg)  
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/Extra/step25/extra1.jpg)  
 
 #### Important
 
 Expose 3 inner wires inside the cable.
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/Extra/step25/extra2.jpg)  
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/Extra/step25/extra2.jpg)  
 
 #### Important
 
 Use a lighter to burn a short section of each of the internal wires.
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/Extra/step25/extra3.jpg)  
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/Extra/step25/extra3.jpg)  
 
 #### Important
 
 Once cool, wipe the melted isolation away.
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/Extra/step25/extra4.jpg)  
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/Extra/step25/extra4.jpg)  
 
 #### Important
 
 After exposing the inner wires completely, continue connecting alligator wires as described for other PL cables.
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/Extra/step25/extra5.jpg)  
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/Extra/step25/extra5.jpg)  
 
 ### Step 26
 
@@ -296,7 +296,7 @@ After exposing the inner wires completely, continue connecting alligator wires a
 
 Inside your PL cable, are color coated inner wires - colors may vary.
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/step26.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/step26.jpg)
 
 ### Step 27
 
@@ -304,7 +304,7 @@ Inside your PL cable, are color coated inner wires - colors may vary.
 
 Use the cutters to strip the edges of the three inner wires and twist together 2 of the wires coming out of the PL cable. The color of the wires is insignificant at this point. 
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/step27.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/step27.jpg)
 
 ### Step 28
 
@@ -312,14 +312,14 @@ Use the cutters to strip the edges of the three inner wires and twist together 2
 
 Connect an alligator wire to the twisted wires.
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/step28.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/step28.jpg)
 
 
 #### Important
 
 If you don't have alligator wires, wrap the exposed magnetic wire around both ends of the inner wires. Secure with tape.
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/Extra/step28/extra.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/Extra/step28/extra.jpg)
 
 
 ### Step 29
@@ -328,13 +328,13 @@ If you don't have alligator wires, wrap the exposed magnetic wire around both en
 
 Connect the other end of the alligator wire to a wire coming out of the membrane.
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/step29.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/step29.jpg)
 
 #### Important
 
 To ensure the connection, wrap the wire around the alligator's clips.
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/Extra/step29/extra.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/Extra/step29/extra.jpg)
 
 
 ### Step 30
@@ -343,7 +343,7 @@ To ensure the connection, wrap the wire around the alligator's clips.
 
 Connect the second alligator wire to the free inner wire.
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/step30.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/step30.jpg)
 
 ### Step 31
 
@@ -351,7 +351,7 @@ Connect the second alligator wire to the free inner wire.
 
 Connect the other end of the alligator wire to the second wire coming out of the membrane.
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/step31.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/step31.jpg)
 
 
 ### Step 32
@@ -360,7 +360,7 @@ Connect the other end of the alligator wire to the second wire coming out of the
 
 Connect the PL cable to your phone or iPad and play music. Increase the volume to the maximum.
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/step28.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/step28.jpg)
 
 
 
@@ -370,7 +370,7 @@ Connect the PL cable to your phone or iPad and play music. Increase the volume t
 
 Hold the speaker up, against you ear. Make sure the magnet is facing out – away from your ear.
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/step33.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/step33.jpg)
 
 
 #### Important
@@ -385,6 +385,6 @@ The music player transmits constantly changing electrical signals through the PL
 
 Changing the distance between the magnet and the membrane controls the bass levels.
 
-> ![]([BASE]/courses/1-Inventions/Lesson3-Earphone/assets/step34.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson4-Earphone/assets/step34.jpg)
 
 

@@ -4,7 +4,7 @@
 ### Description
 An earphone is a portable, sound emitting device. Earphones and speakers alike, produce sound by transforming electrical signals into motion. This vibrating motion is translated by our brain into sound.
 
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/image.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/image.jpg)
 
 
 1 Hour.
@@ -25,7 +25,7 @@ An earphone is a portable, sound emitting device. Earphones and speakers alike, 
 #### Description
  
 Place the mini-breadboard with the separation slit dividing it horizontally.
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step1.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step1.jpg)
 
 #### Important
 
@@ -38,7 +38,7 @@ A breadboard is hive-like component used to quickly build and test electrical ci
 
 Labeling the columns with numbers will help differentiate the columns for further handling. We will mostly be using columns 3, 5, 7, 11, 13 and 15.
 
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step2.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step2.jpg)
 
 
 
@@ -48,7 +48,7 @@ Labeling the columns with numbers will help differentiate the columns for furthe
 #### Description
 Identify the BC559 transistor.
 
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step3.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step3.jpg)
 
 #### Important
 A transistor is a miniature electronic component that amplifies or controls an electrical current. Almost all electronic devices nowadays have multiple transistors in them. In fact, a computer's memory is built out of billions of amplifying transistors.
@@ -61,7 +61,7 @@ A transistor is a miniature electronic component that amplifies or controls an e
 
 Identify the BC548 transistor.
 
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step4.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step4.jpg)
 
 #### Important
 The BC548 is a silicon audio frequency amplifying transistor. The BC559 and the BC548 share most of their properties except their polarity.
@@ -73,7 +73,7 @@ The BC548 is a silicon audio frequency amplifying transistor. The BC559 and the 
 
 Slightly bend all the external transistor leads. Adjusting them to fit the breadboard's gaps.
 
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step5.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step5.jpg)
 
 #### Important
 Lead wires are the professional name for the conductive wires or legs of an electric component. The leads are connected to the electric pole of a component and are used to connect two locations electrically.
@@ -86,7 +86,7 @@ Lead wires are the professional name for the conductive wires or legs of an elec
 
 Insert the BC559 transistor leads in columns 3, 5, 7. Make sure that the transistor's flat side is facing UP, away from you.
 
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step6.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step6.jpg)
 
 
 
@@ -96,7 +96,7 @@ Insert the BC559 transistor leads in columns 3, 5, 7. Make sure that the transis
 
 Place the BC548 transistor leads in columns 11, 13, 15. Make sure that the transistor's flat side is facing DOWN, towards you.
 
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step7.jpg) 
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step7.jpg) 
 
 
 
@@ -105,7 +105,7 @@ Place the BC548 transistor leads in columns 11, 13, 15. Make sure that the trans
 #### Description
 
 Identify the 10K resistor.
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step8.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step8.jpg)
 
 #### Important
 A resistor is an electric component. Resistors reduce current flow within circuits, lower voltage or signal levels and terminate transmission. The levels of electrical resistance vary between different resistors, color coding indications allow differentiation.
@@ -117,7 +117,7 @@ A resistor is an electric component. Resistors reduce current flow within circui
 
 Bend the 10K resistor and insert the leads in columns 7 and 11.
 
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step9.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step9.jpg)
 
 ####Important
 
@@ -130,7 +130,7 @@ Determining which lead goes into what column is insignificant, as resistors have
 
 Identify the capacitors.
 
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step10.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step10.jpg)
 
 ####Important
 
@@ -143,7 +143,7 @@ A capacitor is an electric component, used to store energy. Forms of capacitors 
 
 Bend the capacitor's leads and insert into columns 5 and 11. It is indifferent to polarity, so determing which capacitor lead goes into what column is insignificant
 
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step11.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step11.jpg)
 
 
 
@@ -153,7 +153,7 @@ Bend the capacitor's leads and insert into columns 5 and 11. It is indifferent t
 
 Connect another capacitor, bend the leads and insert into columns 7 and 13.
 
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step12.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step12.jpg)
 
 
 ### Step 13
@@ -161,7 +161,7 @@ Connect another capacitor, bend the leads and insert into columns 7 and 13.
 #### Description
 
 Place the Piezo transducer's leads in columns 7 and 11. Since Piezos are affected by polarity, they will only buzz if placed correctly. If your invention is finalized and the circuit does not produce a buzzing sound, reverse the Piezo's alignment and switch the leads between the columns.
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step13.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step13.jpg)
 
 #### Important
 A Piezo transducer is a sound emitting electrical component, converting electrical charges into sound.
@@ -172,7 +172,7 @@ A Piezo transducer is a sound emitting electrical component, converting electric
 
 Place the CR2032 battery and the equivalent battery case, on you working surface.
 
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step14.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step14.jpg)
 
 
 ### Step 15
@@ -180,7 +180,7 @@ Place the CR2032 battery and the equivalent battery case, on you working surface
 #### Description
 
 Insert the battery into the battery case, written side facing up.
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step15.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step15.jpg)
 
 
 ### Step 16
@@ -189,7 +189,7 @@ Insert the battery into the battery case, written side facing up.
 
 Insert the battery case into the breadboard. Make sure the rectangular contour - the battery’s positive terminal, is on the left of the breadboard when facing you.
 
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step16.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step16.jpg)
 
 
 ### Step 17
@@ -198,7 +198,7 @@ Insert the battery case into the breadboard. Make sure the rectangular contour -
 
 Use a jumper wire to connect the column of the battery’s positive terminal to column 3 on the lower section of the breadboard.
 
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step17.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step17.jpg)
 
 ####Important
 Jumper wires transfer electric signals. They vary in length and color and allow connecting multiple components to the electrical circuit or breadboard.
@@ -209,14 +209,14 @@ Jumper wires transfer electric signals. They vary in length and color and allow 
 #### Description
 Use a jumper wire to connect the column of the battery’s negative terminal to column 15 on the lower section of the breadboard.
 
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step18.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step18.jpg)
 
 ### Step 19
 
 #### Description
 
 Cut two 4'' (10 cm) segments of wire.
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step19.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step19.jpg)
 
 
 ### Step 20
@@ -225,7 +225,7 @@ Cut two 4'' (10 cm) segments of wire.
 
 Expose about 0.5'' (1 cm) of wire on one end and about 1'' (3 cm) of wire on the other end.
 
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step20.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step20.jpg)
 
 
 ### Step 21
@@ -234,7 +234,7 @@ Expose about 0.5'' (1 cm) of wire on one end and about 1'' (3 cm) of wire on the
 
 Insert a push pin into the pencil. Apply pressure and make sure the metal tip reaches the graphite core. Beware and avoid pricking your fingers.
 
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step21.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step21.jpg)
 
 ### Step 22
 
@@ -242,7 +242,7 @@ Insert a push pin into the pencil. Apply pressure and make sure the metal tip re
 
 Carefully wrap the stripped wire around the push pin.
 
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step22.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step22.jpg)
 
 #### Important
 
@@ -254,7 +254,7 @@ Burning the edge of the wire removes the plastic isolating coating. The magnetic
 #### Description
 
 
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step23.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step23.jpg)
 
 
 
@@ -265,7 +265,7 @@ Burning the edge of the wire removes the plastic isolating coating. The magnetic
 
 Place the second segment of wire on your working surface, expose about 2'' (5 cm) of wire on one end and 0.5'' (1 cm) on the other end.
 
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step24.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step24.jpg)
 
 
 
@@ -275,7 +275,7 @@ Place the second segment of wire on your working surface, expose about 2'' (5 cm
 
 Coil the stripped wire around the pencil, allowing 0.5'' (1 cm) gaps between windings. Straighten the remaining wire to the length of the pencil.
 
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step25.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step25.jpg)
 
 
 ### Step 26
@@ -283,21 +283,21 @@ Coil the stripped wire around the pencil, allowing 0.5'' (1 cm) gaps between win
 #### Description
 
 Wrap aluminium foil around the coil.
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step26.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step26.jpg)
 
 ### Step 27
 
 #### Description
 
 
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step27.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step27.jpg)
 
 ### Step 28
 
 #### Description
 
 Secure the foil with tape on both ends.
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step28.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step28.jpg)
 
 
 
@@ -306,7 +306,7 @@ Secure the foil with tape on both ends.
 #### Description
 
 
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step29.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step29.jpg)
 
 
 
@@ -317,7 +317,7 @@ Secure the foil with tape on both ends.
 
 Use a zip tie and secure the breadboard onto the pencil.
 
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step30.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step30.jpg)
 
 
 ### Step 31
@@ -325,7 +325,7 @@ Use a zip tie and secure the breadboard onto the pencil.
 #### Description
 
 Connect the wire emerging out of the aluminium foil, to column 5 on the lower section of the breadboard.
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step31.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step31.jpg)
 
 
 ### Step 32
@@ -334,7 +334,7 @@ Connect the wire emerging out of the aluminium foil, to column 5 on the lower se
 
 Connect the wire from the push pin to column 13 on the top section of the breadboard.
 
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step28.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step28.jpg)
 
 
 
@@ -344,7 +344,7 @@ Connect the wire from the push pin to column 13 on the top section of the breadb
 
 Hold the pencil with one hand and touch its tip with the other. A buzzing sound should emerge from the Piezo.
 
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step33.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step33.jpg)
 
 
 #### Important
@@ -362,7 +362,7 @@ If no sound is heard, Play with the Piezo's alignment and swap between the leads
 
 Draw a coin-sized, fully colored circle on a piece of paper. Firmly grip the pencil with one hand and using your other hand, place the index finger on the coin-sized circle. Start drawing thick lines from the circle outwards.
 
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step34.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step34.jpg)
 
 #### Important
 This invention harnesses the Lead's electrical conductivity to create sound. Your Lead pencil sketches replace conductive wires and your index finger is used for closing the electrical circuit. Current flows through the circuit and the Piezo generates a buzzing sound.
@@ -375,7 +375,7 @@ This invention harnesses the Lead's electrical conductivity to create sound. You
 
 Enjoy the sound of electric conductivity!
 
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step35.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step35.jpg)
 
 
 
@@ -386,5 +386,5 @@ Enjoy the sound of electric conductivity!
 
 Explore the correlation between the length and width of the line, the distance from the finger and the sound generated.
 
-> ![]([BASE]/courses/1-Inventions/Lesson5-MusicalPencil/assets/step36.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson6-MusicalPencil/assets/step36.jpg)
 

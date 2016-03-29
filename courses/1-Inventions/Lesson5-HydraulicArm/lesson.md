@@ -4,7 +4,7 @@
 ### Description
 A Hydraulic arm is a moving arm that uses liquid fluid power to control movement. Syringes positioned at the Hydraulic arm's joints, conveying water through tubes, push and pull the arm's components and allow playfully exploring the liquid's role as a source of mechanical force.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/image.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/image.jpg)
 
 
 1 Hour.
@@ -29,24 +29,24 @@ A Hydraulic arm is a moving arm that uses liquid fluid power to control movement
 #### Description
  
 Use a hole puncher to pierce holes in the center of 2 wooden craft flats.
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step1.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step1.jpg)
 #### Important
 
 If you cannot use a hole puncher, substitute by using a craft knife. Create holes with a knife by drilling it into the wooden surface with a rotating motion.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/Extra/step1/extra1.jpg) 
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/Extra/step1/extra1.jpg) 
 
 #### Important
 
 The size of the hole should allow the insertion and rotation of a paper fastening pin.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/Extra/step1/extra2.jpg)  
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/Extra/step1/extra2.jpg)  
 
 ### Step 2
 
 #### Description 
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step2.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step2.jpg)
 
 
 
@@ -56,7 +56,7 @@ The size of the hole should allow the insertion and rotation of a paper fastenin
 #### Description
 
 Prepare 2 pieces of tape.
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step3.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step3.jpg)
 
 
 
@@ -66,7 +66,7 @@ Prepare 2 pieces of tape.
 
 Place the craft flats perpendicularly, bind together at the intersection point with tape.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step4.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step4.jpg)
 
 
 
@@ -76,7 +76,7 @@ Place the craft flats perpendicularly, bind together at the intersection point w
 
 Flip over and repeat.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step5.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step5.jpg)
 
 
 
@@ -85,7 +85,7 @@ Flip over and repeat.
 #### Description
 
 Cut a hole through the tape. 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step6.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step6.jpg)
 
 
 
@@ -95,7 +95,7 @@ Cut a hole through the tape.
 
 Insert a paper fastener
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step7.jpg) 
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step7.jpg) 
 
 
 
@@ -104,14 +104,14 @@ Insert a paper fastener
 #### Description
 
 Cut a wooden craft flat in half.
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step8.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step8.jpg)
 
 ### Step 9
 
 #### Description
 
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step9.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step9.jpg)
 
 
 ### Step 10
@@ -120,7 +120,7 @@ Cut a wooden craft flat in half.
 
 Remove the round tip from another flat.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step10.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step10.jpg)
 
 
 
@@ -130,7 +130,7 @@ Remove the round tip from another flat.
 #### Description
 
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step11.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step11.jpg)
 
 
 
@@ -140,7 +140,7 @@ Remove the round tip from another flat.
 
 Place the cut flats in a continuous line, preserving a minimal space in between.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step12.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step12.jpg)
 
 
 ### Step 13
@@ -149,7 +149,7 @@ Place the cut flats in a continuous line, preserving a minimal space in between.
 
 Wrap tape around both flats, patching them together.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step13.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step13.jpg)
 
 
 
@@ -159,7 +159,7 @@ Wrap tape around both flats, patching them together.
 
 Creating a joint and allowing movement.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step14.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step14.jpg)
 
 
 ### Step 15
@@ -167,7 +167,7 @@ Creating a joint and allowing movement.
 #### Description
 
 Repeat the process and create an additional joint.
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step15.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step15.jpg)
 
 
 ### Step 16
@@ -176,14 +176,14 @@ Repeat the process and create an additional joint.
 
 Pierce a hole on the long end of each joint.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step16.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step16.jpg)
 
 
 ### Step 17
 
 #### Description
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step17.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step17.jpg)
 
 
 ### Step 18
@@ -192,7 +192,7 @@ Pierce a hole on the long end of each joint.
 
 Place the joint on the base, make sure the hole is facing up.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step18.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step18.jpg)
 
 ### Step 19
 
@@ -200,7 +200,7 @@ Place the joint on the base, make sure the hole is facing up.
 
 Secure with tape.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step19.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step19.jpg)
 
 
 ### Step 20
@@ -209,7 +209,7 @@ Secure with tape.
 
 Repeat the process for the second joint.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step20.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step20.jpg)
 
 ### Step 21
 
@@ -217,7 +217,7 @@ Repeat the process for the second joint.
 
 Resulting in the main tower.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step21.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step21.jpg)
 
 ### Step 22
 
@@ -225,7 +225,7 @@ Resulting in the main tower.
 
 Pierce holes on both ends of a craft flat.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step22.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step22.jpg)
 
 
 
@@ -235,7 +235,7 @@ Pierce holes on both ends of a craft flat.
 #### Description
 
 Pierce one hole in the center of the flat and another one about 1'' (2 cm) apart from the hole in the tip.
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step23.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step23.jpg)
 
 
 
@@ -246,7 +246,7 @@ Pierce one hole in the center of the flat and another one about 1'' (2 cm) apart
 
 Resulting in a total of 4 holes.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step24.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step24.jpg)
 
 #### Important
 
@@ -260,7 +260,7 @@ This motor generates motion with the use of electrically charged particles in a 
 
 Use as a stencil, align and copy the holes onto 3 additional flats.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step25.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step25.jpg)
 
 
 
@@ -270,7 +270,7 @@ Use as a stencil, align and copy the holes onto 3 additional flats.
 
 Resulting in a total of 4 identical flats.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step26.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step26.jpg)
 
 ### Step 27
 
@@ -278,7 +278,7 @@ Resulting in a total of 4 identical flats.
 
 Hold the 4 pieces together and Insert between the flaps of the main tower.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step27.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step27.jpg)
 
 ### Step 28
 
@@ -286,7 +286,7 @@ Hold the 4 pieces together and Insert between the flaps of the main tower.
 
 Secure with a paper fastener in the middle hole.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step28.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step28.jpg)
 
 
 
@@ -296,7 +296,7 @@ Secure with a paper fastener in the middle hole.
 
 Pierce holes on both edges of 2 additional flats. On one side, add another hole about 1'' (2 cm) apart from the hole in the tip.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step29.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step29.jpg)
 
 
 
@@ -307,7 +307,7 @@ Pierce holes on both edges of 2 additional flats. On one side, add another hole 
 #### Description
 
 Divide the flats equally into thirds.
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step30.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step30.jpg)
 
 ### Step 31
 
@@ -315,7 +315,7 @@ Divide the flats equally into thirds.
 
 Patch the segments together with tape and create joints.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step31.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step31.jpg)
 
 
 ### Step 32
@@ -324,7 +324,7 @@ Patch the segments together with tape and create joints.
 
 Shape together as a gripper.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step28.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step28.jpg)
 
 
 
@@ -334,7 +334,7 @@ Shape together as a gripper.
 
 Insert the gripper between the pierced flats of the main tower. Make sure all holes are aligned.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step33.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step33.jpg)
 
 
 
@@ -345,7 +345,7 @@ Insert the gripper between the pierced flats of the main tower. Make sure all ho
 
 Insert 2 paper fasteners and affix the griper's position.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step34.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step34.jpg)
 
 
 
@@ -354,7 +354,7 @@ Insert 2 paper fasteners and affix the griper's position.
 #### Description
 
 Find a surface of at least 8'' by 8'' (20*20cm) of a hard and durable material. This base surface could be made of cardboard, foam-board or wood.
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step35.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step35.jpg)
 
 
 
@@ -363,7 +363,7 @@ Find a surface of at least 8'' by 8'' (20*20cm) of a hard and durable material. 
 #### Description
 
 Drill a hole in the center of the base.
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step36.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step36.jpg)
 
 
 
@@ -371,7 +371,7 @@ Drill a hole in the center of the base.
 
 Assisted by a ruler, draw 2 straight lines between diagonal vertexes. Drill the hole at the intersection point.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/Extra/step36/extra.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/Extra/step36/extra.jpg)
 
 
 ### Step 37
@@ -380,7 +380,7 @@ Assisted by a ruler, draw 2 straight lines between diagonal vertexes. Drill the 
 
 Drill a hole in one of the corners of the base."
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step37.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step37.jpg)
 
 
 ### Step 38
@@ -389,7 +389,7 @@ Drill a hole in one of the corners of the base."
 
 Pierce a hole in the tip of one of the flats at the base of the arm.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step38.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step38.jpg)
 
 
 
@@ -399,7 +399,7 @@ Pierce a hole in the tip of one of the flats at the base of the arm.
 
 Insert a paper fastener through the hole and connect the arm to the hard base.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step39.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step39.jpg)
 
 
 
@@ -410,7 +410,7 @@ Insert a paper fastener through the hole and connect the arm to the hard base.
 
 Mount the arm onto the hard base, turn the gripper away from the pierced corner.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step40.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step40.jpg)
 
 
 
@@ -420,7 +420,7 @@ Mount the arm onto the hard base, turn the gripper away from the pierced corner.
 
 Divide one flat into five equal segments and pierce a hole in each one.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step41.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step41.jpg)
 
 
 
@@ -430,7 +430,7 @@ Divide one flat into five equal segments and pierce a hole in each one.
 
 Prepare a strip of approximately 5'' (12 cm) of  tape.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step42.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step42.jpg)
 
 
 
@@ -441,7 +441,7 @@ Prepare a strip of approximately 5'' (12 cm) of  tape.
 
 Wrap the tape around the end of a syringe valve. 
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step43.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step43.jpg)
 
 
 
@@ -451,7 +451,7 @@ Wrap the tape around the end of a syringe valve.
 
 Fold over the short segment, attaching it to the syringe and creating a hinge.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step44.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step44.jpg)
 
 
 
@@ -461,7 +461,7 @@ Fold over the short segment, attaching it to the syringe and creating a hinge.
 #### Description
 
 Place another piece of tape around the other end of the syringe.
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step45.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step45.jpg)
 
 
 ### Step 46
@@ -470,7 +470,7 @@ Place another piece of tape around the other end of the syringe.
 
 Fold the tape over another short wooden segment, creating another hinge.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step46.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step46.jpg)
 
 
 
@@ -480,7 +480,7 @@ Fold the tape over another short wooden segment, creating another hinge.
 #### Description
 
 Cut holes through the tape.
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step47.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step47.jpg)
 
 
 ### Step 48
@@ -488,7 +488,7 @@ Cut holes through the tape.
 #### Description
 
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step48.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step48.jpg)
 
 
 
@@ -499,7 +499,7 @@ Cut holes through the tape.
 
 Cut a segment of approximately 10'' (25 cm) of silicon tubing.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step49.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step49.jpg)
 
 
 ### Step 50
@@ -507,7 +507,7 @@ Cut a segment of approximately 10'' (25 cm) of silicon tubing.
 #### Description
 
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step50.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step50.jpg)
 
 
 
@@ -518,7 +518,7 @@ Cut a segment of approximately 10'' (25 cm) of silicon tubing.
 
 Immerse the edge of the tubing in hot water, allowing the tips to become adjustable.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step51.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step51.jpg)
 
 #### Important
 
@@ -535,7 +535,7 @@ An alternate expanding technique suggests using a lighter to heat the tubing, al
 
 Attach one end of the silicon tubing to a syringe.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step52.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step52.jpg)
 
 #### Important
 
@@ -547,7 +547,7 @@ You may need to use some force to insure the connection.
 #### Description
 
 Draw water into a separate syringe, make sure it is full to the maximum capacity.
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step53.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step53.jpg)
 
 
 ### Step 54
@@ -556,7 +556,7 @@ Draw water into a separate syringe, make sure it is full to the maximum capacity
 
 Attach the other end of the tubing to the full syringe.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step54.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step54.jpg)
 
 
 
@@ -567,7 +567,7 @@ Attach the other end of the tubing to the full syringe.
 
 Insert 2 paper fasteners through the holes. Affix both to the base surface and the arm's base, on the opposite side of the gripper.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step55.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step55.jpg)
 
 
 ### Step 56
@@ -575,7 +575,7 @@ Insert 2 paper fasteners through the holes. Affix both to the base surface and t
 #### Description
 
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step56.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step56.jpg)
 
 
 
@@ -586,7 +586,7 @@ Insert 2 paper fasteners through the holes. Affix both to the base surface and t
 
 Use the controlling syringe and convey water through the tubing to the other syringe.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step57.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step57.jpg)
 
 
 ### Step 58
@@ -595,7 +595,7 @@ Use the controlling syringe and convey water through the tubing to the other syr
 
 Push to rotate the arm in one direction.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step58.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step58.jpg)
 
 
 
@@ -606,7 +606,7 @@ Push to rotate the arm in one direction.
 
 Pull the syringe's plunger to rotate the arm in the other direction.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step59.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step59.jpg)
 
 
 ### Step 60
@@ -615,7 +615,7 @@ Pull the syringe's plunger to rotate the arm in the other direction.
 
 Attach an additional flat hinge to the plunger of another syringe.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step60.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step60.jpg)
 
 
 ### Step 61
@@ -624,7 +624,7 @@ Attach an additional flat hinge to the plunger of another syringe.
 
 Insert a paper fastener and connect the syringe to the back of the arm.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step61.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step61.jpg)
 
 
 
@@ -636,7 +636,7 @@ Insert a paper fastener and connect the syringe to the back of the arm.
 
 Cut an additional segment of approximately 10'' (25 cm) of silicon tubing.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step62.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step62.jpg)
 
 
 ### Step 63
@@ -645,7 +645,7 @@ Cut an additional segment of approximately 10'' (25 cm) of silicon tubing.
 
 Immerse the edge of the tubing in hot water.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step63.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step63.jpg)
 
 
 
@@ -656,7 +656,7 @@ Immerse the edge of the tubing in hot water.
 
 Insert the tubing between the tower's pillars and connect to the syringe.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step64.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step64.jpg)
 
 
 
@@ -667,7 +667,7 @@ Insert the tubing between the tower's pillars and connect to the syringe.
 
 Cut a flat in half. Pierce 1 hole near the straight edge of one of the segments.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step65.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step65.jpg)
 
 
 
@@ -677,7 +677,7 @@ Cut a flat in half. Pierce 1 hole near the straight edge of one of the segments.
 
 Patch together with tape, creating a joint. Cut a hole through the tape.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step66.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step66.jpg)
 
 
 
@@ -687,7 +687,7 @@ Patch together with tape, creating a joint. Cut a hole through the tape.
 
 Place the joint on the base, inserting the tube through the hole.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step67.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step67.jpg)
 
 
 ### Step 68
@@ -696,7 +696,7 @@ Place the joint on the base, inserting the tube through the hole.
 
 Use tape to affix the position of the joint.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step68.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step68.jpg)
 
 
 
@@ -707,7 +707,7 @@ Use tape to affix the position of the joint.
 
 Draw water into a syringe, make sure it is full to the maximum capacity.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step69.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step69.jpg)
 
 
 
@@ -717,7 +717,7 @@ Draw water into a syringe, make sure it is full to the maximum capacity.
 
 Reshape the tubing in hot water.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step70.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step70.jpg)
 
 
 ### Step 71
@@ -726,7 +726,7 @@ Reshape the tubing in hot water.
 
 Attach the other end of the tubing to the full syringe. Push the syringe's plunger to move the arm down.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step71.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step71.jpg)
 
 
 
@@ -736,7 +736,7 @@ Attach the other end of the tubing to the full syringe. Push the syringe's plung
 
 Pull the plunger to raise the arm back up.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step72.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step72.jpg)
 
 
 
@@ -747,7 +747,7 @@ Pull the plunger to raise the arm back up.
 
 Place a piece of tape around the end of a syringe's valve.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step73.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step73.jpg)
 
 
 
@@ -758,7 +758,7 @@ Place a piece of tape around the end of a syringe's valve.
 
 Place two of the short wooden segments on the tape.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step74.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step74.jpg)
 
 
 
@@ -769,7 +769,7 @@ Place two of the short wooden segments on the tape.
 
 Fold the tape over both flats, attaching them to the syringe and creating hinges.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step75.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step75.jpg)
 
 
 
@@ -779,7 +779,7 @@ Fold the tape over both flats, attaching them to the syringe and creating hinges
 
 Cut holes through the tape. 
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step76.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step76.jpg)
 
 
 
@@ -790,7 +790,7 @@ Cut holes through the tape.
 
 Pierce holes on both tips of 2 additional wooden flats.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step77.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step77.jpg)
 
 
 
@@ -799,7 +799,7 @@ Pierce holes on both tips of 2 additional wooden flats.
 #### Description
 
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step78.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step78.jpg)
 
 
 
@@ -810,7 +810,7 @@ Pierce holes on both tips of 2 additional wooden flats.
 
 Cut the flats about 2'' (5 cm) from the tip.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step79.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step79.jpg)
 
 
 
@@ -820,7 +820,7 @@ Cut the flats about 2'' (5 cm) from the tip.
 
 Patch and create hinges.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step80.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step80.jpg)
 
 
 
@@ -831,7 +831,7 @@ Patch and create hinges.
 
 Insert paper fasteners through the holes in the edge of the 2 flats, connecting the gripper.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step81.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step81.jpg)
 
 
 
@@ -842,7 +842,7 @@ Insert paper fasteners through the holes in the edge of the 2 flats, connecting 
 
 Make sure that the longer part of the joint is connected directly to the griper.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step82.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step82.jpg)
 
 
 
@@ -853,7 +853,7 @@ Make sure that the longer part of the joint is connected directly to the griper.
 
 Insert paper fasteners through the holes in the edge of the 2 flats, connecting the gripper.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step83.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step83.jpg)
 
 
 
@@ -864,7 +864,7 @@ Insert paper fasteners through the holes in the edge of the 2 flats, connecting 
 
 Insert paper fasteners through the holes in the edge of the 2 flats, connecting the gripper.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step84.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step84.jpg)
 
 
 
@@ -876,7 +876,7 @@ Insert paper fasteners through the holes in the edge of the 2 flats, connecting 
 
 Secure the syringe onto the main beam with a piece of tape.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step85.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step85.jpg)
 
 
 
@@ -886,7 +886,7 @@ Secure the syringe onto the main beam with a piece of tape.
 #### Description
 
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step86.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step86.jpg)
 
 
 
@@ -897,7 +897,7 @@ Secure the syringe onto the main beam with a piece of tape.
 
 Use the remainder of tubing and reshape by immersing in hot water.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step87.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step87.jpg)
 
 
 
@@ -908,7 +908,7 @@ Use the remainder of tubing and reshape by immersing in hot water.
 
 Draw water into a syringe, make sure it is full to the maximum capacity.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step88.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step88.jpg)
 
 
 
@@ -919,7 +919,7 @@ Draw water into a syringe, make sure it is full to the maximum capacity.
 
 Attach one edge of the tubing to the affixed syringe and the other to a free syringe.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step89.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step89.jpg)
 
 
 
@@ -931,7 +931,7 @@ Attach one edge of the tubing to the affixed syringe and the other to a free syr
 
 Push the syringe's plunger to control the gripper, closing the arms.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step90.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step90.jpg)
 
 
 
@@ -942,7 +942,7 @@ Push the syringe's plunger to control the gripper, closing the arms.
 
 Pull the plunger to open the arms.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step91.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step91.jpg)
 
 
 
@@ -952,5 +952,5 @@ Pull the plunger to open the arms.
 
 Explore your invention and test the hydraulic system. Once your done, guard the arm in a safe place for further use in an additional project.
 
-> ![]([BASE]/courses/1-Inventions/Lesson4-HydraulicArm/assets/step92.jpg)
+> ![]([BASE]/courses/1-Inventions/Lesson5-HydraulicArm/assets/step92.jpg)
 
