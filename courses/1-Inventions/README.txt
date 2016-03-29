@@ -1,2 +1,0 @@
-# Makers Essentials Course
-
