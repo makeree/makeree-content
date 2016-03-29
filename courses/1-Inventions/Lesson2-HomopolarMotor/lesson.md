@@ -142,10 +142,6 @@ Grip the wire with the needle-nose pliers about 0.25'' (5 mm) from the vertex yo
 
 > ![]([BASE]/courses/1-Inventions/Lesson2-HomopolarMotor/assets/step6.jpg)
 
-#### Important
-
-
-> ![]([BASE]/courses/1-Inventions/Lesson2-HomopolarMotor/assets/extra/step6/extra.jpg)
 
 ### Step 7
 
